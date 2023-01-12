@@ -1,5 +1,7 @@
 Go to the about section to wisite the website
-or click here
+or click the link below :
+
+https://scythewielder.github.io/
 
 
 
