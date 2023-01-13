@@ -1,4 +1,4 @@
-Go to the about section to wisite the website
+Go to the about section to visit the website
 or click the link below :
 
 https://scythewielder.github.io/
